@@ -1,1 +1,13 @@
+# Core Python libraries
+numpy
+pandas
+opencv-python
+Pillow
+dataclasses
+pathlib
 
+# Streamlit for frontend
+streamlit
+
+# Optional: HEIC image format support
+pillow-heif
