@@ -5,9 +5,12 @@ opencv-python
 Pillow
 dataclasses
 pathlib
+python-3.11
+
 
 # Streamlit for frontend
 streamlit
 
 # Optional: HEIC image format support
 pillow-heif
+
